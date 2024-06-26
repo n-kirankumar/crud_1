@@ -1,0 +1,139 @@
+2024-06-26 08:11:17,009 - INFO - Mobile verification is successful
+2024-06-26 08:11:17,010 - INFO - Email verification is successful
+2024-06-26 08:11:17,010 - INFO - Gender verification is successful
+2024-06-26 08:11:17,010 - INFO - Blood group verification is successful
+2024-06-26 08:11:17,011 - INFO - DOB verification is successful
+2024-06-26 08:11:17,011 - INFO - Record created successfully
+2024-06-26 08:11:17,011 - INFO - New record created
+2024-06-26 08:11:17,011 - INFO - Reading all records
+2024-06-26 08:11:17,011 - INFO - Records: [{'mobile': 919876543210, 'email': 'a@gmail.com', 'gender': 'Male', 'blood_group': 'O+', 'dob': '1990-01-01'}]
+2024-06-26 08:11:17,011 - INFO - Record with mobile 919876543210 updated successfully
+2024-06-26 08:11:17,011 - INFO - Record updated
+2024-06-26 08:11:17,012 - INFO - Reading all records
+2024-06-26 08:11:17,012 - INFO - Records after update: [{'mobile': 919876543210, 'email': 'updated_a@gmail.com', 'gender': 'Other', 'blood_group': 'A+', 'dob': '1991-02-02'}]
+2024-06-26 08:11:17,012 - INFO - Record with mobile 919876543210 deleted successfully
+2024-06-26 08:11:17,012 - INFO - Record deleted
+2024-06-26 08:11:17,012 - INFO - Reading all records
+2024-06-26 08:11:17,013 - INFO - Records after deletion: []
+2024-06-26 08:23:14,275 - ERROR - Invalid Mobile number length 3 and valid length is 12
+2024-06-26 08:23:14,275 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:23:14,276 - INFO - Mobile verification is successful
+2024-06-26 08:23:14,276 - ERROR - Invalid email format
+2024-06-26 08:23:14,276 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:23:14,277 - INFO - Mobile verification is successful
+2024-06-26 08:23:14,277 - INFO - Email verification is successful
+2024-06-26 08:23:14,277 - ERROR - Invalid gender - InvalidGender. Valid genders are ['Male', 'Female', 'Other']
+2024-06-26 08:23:14,277 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:23:14,277 - INFO - Mobile verification is successful
+2024-06-26 08:23:14,277 - INFO - Email verification is successful
+2024-06-26 08:23:14,277 - INFO - Gender verification is successful
+2024-06-26 08:23:14,277 - ERROR - Invalid blood group - InvalidBG. Valid blood groups are ['A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-']
+2024-06-26 08:23:14,277 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:23:14,277 - INFO - Mobile verification is successful
+2024-06-26 08:23:14,277 - INFO - Email verification is successful
+2024-06-26 08:23:14,277 - INFO - Gender verification is successful
+2024-06-26 08:23:14,277 - INFO - Blood group verification is successful
+2024-06-26 08:23:14,278 - ERROR - Invalid DOB format. Required format is YYYY-MM-DD
+2024-06-26 08:23:14,278 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:23:14,278 - INFO - Mobile verification is successful
+2024-06-26 08:23:14,278 - INFO - Email verification is successful
+2024-06-26 08:23:14,278 - INFO - Gender verification is successful
+2024-06-26 08:23:14,278 - INFO - Blood group verification is successful
+2024-06-26 08:23:14,278 - INFO - DOB verification is successful
+2024-06-26 08:23:14,278 - INFO - Record created successfully
+2024-06-26 08:23:14,278 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 08:23:14,278 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 08:23:14,278 - INFO - Record with mobile 919876543214 deleted successfully
+2024-06-26 08:23:14,279 - INFO - Reading all records
+2024-06-26 08:23:14,279 - INFO - Final Records: []
+2024-06-26 08:35:33,351 - ERROR - Invalid Mobile number length 3 and valid length is 12
+2024-06-26 08:35:33,352 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:35:33,352 - INFO - Mobile verification is successful
+2024-06-26 08:35:33,353 - ERROR - Invalid email format
+2024-06-26 08:35:33,353 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:35:33,353 - INFO - Mobile verification is successful
+2024-06-26 08:35:33,353 - INFO - Email verification is successful
+2024-06-26 08:35:33,354 - ERROR - Invalid gender - InvalidGender. Valid genders are ['Male', 'Female', 'Other']
+2024-06-26 08:35:33,354 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:35:33,354 - INFO - Mobile verification is successful
+2024-06-26 08:35:33,354 - INFO - Email verification is successful
+2024-06-26 08:35:33,354 - INFO - Gender verification is successful
+2024-06-26 08:35:33,355 - ERROR - Invalid blood group - InvalidBG. Valid blood groups are ['A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-']
+2024-06-26 08:35:33,355 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:35:33,355 - INFO - Mobile verification is successful
+2024-06-26 08:35:33,355 - INFO - Email verification is successful
+2024-06-26 08:35:33,355 - INFO - Gender verification is successful
+2024-06-26 08:35:33,355 - INFO - Blood group verification is successful
+2024-06-26 08:35:33,356 - ERROR - Invalid DOB format. Required format is YYYY-MM-DD
+2024-06-26 08:35:33,356 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:35:33,356 - INFO - Mobile verification is successful
+2024-06-26 08:35:33,356 - INFO - Email verification is successful
+2024-06-26 08:35:33,357 - INFO - Gender verification is successful
+2024-06-26 08:35:33,357 - INFO - Blood group verification is successful
+2024-06-26 08:35:33,357 - INFO - DOB verification is successful
+2024-06-26 08:35:33,357 - INFO - Record created successfully
+2024-06-26 08:35:33,357 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 08:35:33,358 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 08:35:33,358 - INFO - Record with mobile 919876543214 deleted successfully
+2024-06-26 08:35:33,358 - INFO - Reading all records
+2024-06-26 08:35:33,358 - INFO - Final Records: []
+2024-06-26 08:36:33,912 - ERROR - Invalid Mobile number length 3 and valid length is 12
+2024-06-26 08:36:33,912 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:36:33,912 - INFO - Mobile verification is successful
+2024-06-26 08:36:33,913 - ERROR - Invalid email format
+2024-06-26 08:36:33,913 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:36:33,913 - INFO - Mobile verification is successful
+2024-06-26 08:36:33,913 - INFO - Email verification is successful
+2024-06-26 08:36:33,913 - ERROR - Invalid gender - InvalidGender. Valid genders are ['Male', 'Female', 'Other']
+2024-06-26 08:36:33,913 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:36:33,913 - INFO - Mobile verification is successful
+2024-06-26 08:36:33,913 - INFO - Email verification is successful
+2024-06-26 08:36:33,913 - INFO - Gender verification is successful
+2024-06-26 08:36:33,913 - ERROR - Invalid blood group - InvalidBG. Valid blood groups are ['A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-']
+2024-06-26 08:36:33,913 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:36:33,913 - INFO - Mobile verification is successful
+2024-06-26 08:36:33,914 - INFO - Email verification is successful
+2024-06-26 08:36:33,914 - INFO - Gender verification is successful
+2024-06-26 08:36:33,914 - INFO - Blood group verification is successful
+2024-06-26 08:36:33,914 - ERROR - Invalid DOB format. Required format is YYYY-MM-DD
+2024-06-26 08:36:33,914 - ERROR - Record creation failed due to invalid data
+2024-06-26 08:36:33,914 - INFO - Mobile verification is successful
+2024-06-26 08:36:33,914 - INFO - Email verification is successful
+2024-06-26 08:36:33,914 - INFO - Gender verification is successful
+2024-06-26 08:36:33,914 - INFO - Blood group verification is successful
+2024-06-26 08:36:33,914 - INFO - DOB verification is successful
+2024-06-26 08:36:33,914 - INFO - Record created successfully
+2024-06-26 08:36:33,914 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 08:36:33,915 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 08:36:33,915 - INFO - Reading all records
+2024-06-26 08:36:33,915 - INFO - Final Records: [{'mobile': 919876543214, 'email': 'updated_e@gmail.com', 'gender': 'Male', 'blood_group': 'B+', 'dob': '1992-02-02'}]
+2024-06-26 09:08:16,381 - ERROR - Invalid Mobile number length 3 and valid length is 12
+2024-06-26 09:08:16,381 - ERROR - Record creation failed due to invalid data
+2024-06-26 09:08:16,382 - INFO - Mobile verification is successful
+2024-06-26 09:08:16,382 - ERROR - Invalid email format
+2024-06-26 09:08:16,382 - ERROR - Record creation failed due to invalid data
+2024-06-26 09:08:16,382 - INFO - Mobile verification is successful
+2024-06-26 09:08:16,382 - INFO - Email verification is successful
+2024-06-26 09:08:16,383 - ERROR - Invalid gender - InvalidGender. Valid genders are ['Male', 'Female', 'Other']
+2024-06-26 09:08:16,383 - ERROR - Record creation failed due to invalid data
+2024-06-26 09:08:16,383 - INFO - Mobile verification is successful
+2024-06-26 09:08:16,383 - INFO - Email verification is successful
+2024-06-26 09:08:16,383 - INFO - Gender verification is successful
+2024-06-26 09:08:16,383 - ERROR - Invalid blood group - InvalidBG. Valid blood groups are ['A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-']
+2024-06-26 09:08:16,383 - ERROR - Record creation failed due to invalid data
+2024-06-26 09:08:16,383 - INFO - Mobile verification is successful
+2024-06-26 09:08:16,383 - INFO - Email verification is successful
+2024-06-26 09:08:16,383 - INFO - Gender verification is successful
+2024-06-26 09:08:16,383 - INFO - Blood group verification is successful
+2024-06-26 09:08:16,384 - ERROR - Invalid DOB format. Required format is YYYY-MM-DD
+2024-06-26 09:08:16,384 - ERROR - Record creation failed due to invalid data
+2024-06-26 09:08:16,384 - INFO - Mobile verification is successful
+2024-06-26 09:08:16,384 - INFO - Email verification is successful
+2024-06-26 09:08:16,384 - INFO - Gender verification is successful
+2024-06-26 09:08:16,384 - INFO - Blood group verification is successful
+2024-06-26 09:08:16,384 - INFO - DOB verification is successful
+2024-06-26 09:08:16,384 - INFO - Record created successfully
+2024-06-26 09:08:16,384 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 09:08:16,384 - INFO - Record with mobile 919876543214 updated successfully
+2024-06-26 09:08:16,384 - INFO - Reading all records
+2024-06-26 09:08:16,384 - INFO - Final Records: [{'mobile': 919876543214, 'email': 'updated_e@gmail.com', 'gender': 'Male', 'blood_group': 'B+', 'dob': '1992-02-02'}]
